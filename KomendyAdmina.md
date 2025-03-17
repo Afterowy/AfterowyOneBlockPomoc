@@ -1,3 +1,5 @@
+## Uprawnienia administratora (aliasy: awyspy, ais, aisland):
+```yaml
 /awyspa dodaj - Dodaje gracza do wyspy
 /awyspa wyrzuc - Wyrzuca gracza z wyspy
 /awyspa zmienwlasciciela - Zmienia właściciela wyspy

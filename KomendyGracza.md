@@ -30,3 +30,5 @@
 /wyspa kup - Lista wysp do kupienia
 /wyspa odwiedz <wyspa> - Odwiedza daną wyspę
 /wyspa czat <wiadomość> - Wysyła wiadomość na czacie wyspy
+
+Uprawnienie: afterowyoneblock.player nadaje dostęp do wszystkich komend gracza
